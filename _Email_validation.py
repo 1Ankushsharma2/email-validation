@@ -1,4 +1,4 @@
-Email=input("Enter the Emali:") #m@m.in   ,ankush@sgmail.com
+Email=input("Enter the Email:") #m@m.in   ,ankush@sgmail.com
 k,j,d=0,0,0
 if len (Email)>=6:
     if Email[0].isalpha():
